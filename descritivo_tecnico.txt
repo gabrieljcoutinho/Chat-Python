@@ -1,0 +1,9 @@
+Descritivo Técnico
+
+Escolhemos a técnica de engenharia de prompt chamada "Prompt de Instrução", pois ela permite orientar o modelo de IA
+ de forma clara e objetiva sobre o tipo de resposta desejada. 
+No nosso projeto, criamos um agente de recomendação de produtos de moda sustentável, 
+utilizando instruções específicas para que o modelo liste apenas os nomes dos produtos e ofereça uma breve descrição de cada um. 
+Essa abordagem garante que as respostas sejam relevantes, concisas e alinhadas ao objetivo do agente, facilitando a experiência do usuário.
+
+A implementação foi realizada em Python, utilizando a API do Google AI (Gemini), conforme aprendido em aula.
